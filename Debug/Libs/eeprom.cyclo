@@ -1,0 +1,4 @@
+../Libs/eeprom.c:26:10:eeprom_init	8
+../Libs/eeprom.c:53:10:eeprom_write	7
+../Libs/eeprom.c:95:10:eeprom_read	5
+../Libs/eeprom.c:122:10:eeprom_fill_all	6
